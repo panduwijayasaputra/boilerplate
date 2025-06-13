@@ -1,0 +1,23 @@
+# Node / pnpm / npm / yarn
+node_modules/
+.pnpm-store/
+.pnpm-debug.log
+yarn.lock
+package-lock.json
+
+# Next.js build output
+.next/
+out/
+
+# Build artifacts
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# Local env files (don't commit secrets)
+.e
